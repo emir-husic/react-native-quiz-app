@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-quiz-app",
+    "slug": "react-native-quiz-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-quiz-app"
+}
